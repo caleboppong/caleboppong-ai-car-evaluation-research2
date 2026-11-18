@@ -1,0 +1,6 @@
+                   accuracy           balanced_accuracy            macro_f1          
+                       mean       std              mean       std      mean       std
+model                                                                                
+expert             0.836343  0.015466          0.491080  0.017498  0.470530  0.021378
+majority_baseline  0.701389  0.000000          0.250000  0.000000  0.206122  0.000000
+weighted           0.845023  0.014897          0.707979  0.043628  0.676001  0.038470
